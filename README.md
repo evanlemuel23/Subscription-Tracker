@@ -1,11 +1,11 @@
-# 🚀 **Subscription Tracker**  
+#  **Subscription Tracker**  
 
-## 📌 Overview  
+##  Overview  
 **Subscription Tracker** is a **Node.js-based** web application designed to help users **efficiently manage their subscriptions**. It provides an **intuitive interface** to track and analyze **active subscriptions, renewal dates, and expenses**.  
 
 ---
 
-## ✨ Features  
+##  Features  
 ✅ **User authentication and management**  
 ✅ **Subscription tracking** with details like **cost, renewal date, and provider**  
 ✅ **Notifications and reminders** for upcoming renewals  
